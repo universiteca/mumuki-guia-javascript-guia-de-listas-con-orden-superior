@@ -1,0 +1,5 @@
+Copyright Producteca and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/universiteca/mumuki-guia-javascript-guia-de-listas-con-orden-superior and the AUTHORS.txt file.
