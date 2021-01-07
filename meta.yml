@@ -4,7 +4,7 @@ locale: es
 type: learning
 beta: false
 teacher_info: ''
-language: javascript
+language: nodejs12
 id_format: "%05d"
 order: []
 private: false
