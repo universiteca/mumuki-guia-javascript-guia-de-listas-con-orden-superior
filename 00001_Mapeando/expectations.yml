@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: _
-  inspection: Calls:map
+  binding: asdasd
+  inspection: Calls:_.map
